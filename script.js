@@ -9,7 +9,7 @@ function comparision () {
 
   // checks if user's age  is younger than 17
   if (age >= 17) {
-    document.getElementById('answer').innerHTML = 'You can see an R  movie or an NC-17 movie alone'
+    document.getElementById('answer').innerHTML = 'You can see an R, NC-17, PG-13, PG or G movie alone'
   } else if (age >= 13) {
     document.getElementById('answer').innerHTML = 'You can see a PG-13, PG or G movie alone'
   } else if (age >= 4) {
