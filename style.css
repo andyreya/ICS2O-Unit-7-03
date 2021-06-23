@@ -1,0 +1,26 @@
+body {
+  background-color: #7180b9;
+}
+
+#heading {
+  color: #dff3e4;
+  text-align: center;
+}
+
+#paragraph {
+  color: #171738;
+  text-align: center;
+}
+
+#para {
+  color: #171738;
+}
+
+#div {
+  text-align: center;
+}
+
+#answer {
+  text-align: center;
+  color: #171738
+}
